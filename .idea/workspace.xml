@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="198e9749-5221-47ba-bd6b-79a85ce0d3f3" name="Default Changelist" comment="" />
+    <list default="true" id="198e9749-5221-47ba-bd6b-79a85ce0d3f3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstStep.html" beforeDir="false" afterPath="$PROJECT_DIR$/FirstStep.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pz2.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/pz2.3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pz2.3_1.js" beforeDir="false" afterPath="$PROJECT_DIR$/pz2.3_1.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,14 +16,19 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Yc13P7bRlJ5XH8pqNirqiW2E14" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -33,6 +43,20 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Node.js.chies.js">
+    <configuration name="chies.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="chies.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="pz2.3_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="pz2.3_1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.chies.js" />
+        <item itemvalue="Node.js.pz2.3_1.js" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -43,11 +67,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583226868272</updated>
-      <workItem from="1583226871166" duration="1281000" />
+      <workItem from="1583226871166" duration="4391000" />
+      <workItem from="1583232935064" duration="1366000" />
+      <workItem from="1583244384688" duration="2913000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
