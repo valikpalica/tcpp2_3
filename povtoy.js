@@ -16,9 +16,7 @@ function patter(text) {
             if (arr[i] === arr[j]) {
                 counter++;
                 console.log(arr[i] + "-" + counter);
-                if (!mas.includes(arr[i])) {
-                    mas.push(arr[i]);
-                }
+                mas.push(arr[i]);
             }
         }
         if (!mas.includes(arr[i])) {
