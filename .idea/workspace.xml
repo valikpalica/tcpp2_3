@@ -27,6 +27,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled7/methodArr.js" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,8 +41,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.chies.js">
+  <component name="RunManager" selected="Node.js.povtoy.js">
     <configuration name="chies.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="chies.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="methodArr.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="methodArr.js" working-dir="$PROJECT_DIR$/../untitled7">
+      <method v="2" />
+    </configuration>
+    <configuration name="povtoy.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="povtoy.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <configuration name="pz2.3_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="pz2.3_1.js" working-dir="$PROJECT_DIR$">
@@ -49,6 +56,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.povtoy.js" />
+        <item itemvalue="Node.js.methodArr.js" />
         <item itemvalue="Node.js.chies.js" />
         <item itemvalue="Node.js.pz2.3_1.js" />
       </list>
@@ -67,7 +76,8 @@
       <workItem from="1583226871166" duration="4391000" />
       <workItem from="1583232935064" duration="1366000" />
       <workItem from="1583244384688" duration="3076000" />
-      <workItem from="1583323598241" duration="7186000" />
+      <workItem from="1583323598241" duration="7580000" />
+      <workItem from="1583399053881" duration="3550000" />
     </task>
     <servers />
   </component>
